@@ -115,9 +115,9 @@ Model eğitimi sırasında:
 
 ---
 
-## 🚀 Çalıştırma (Colab)
+## 🚀 Çalıştırma
 
-1. Notebook’u Google Colab’da aç
+1. Notebook’u Jupyter Notebook / Google Colab’da aç
 2. GPU aktif et
 3. Hücreleri sırayla çalıştır
 4. Dataset otomatik indirilecektir
